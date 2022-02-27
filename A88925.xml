@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the coin fairly represented</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88925</idno>
+            <idno type="STC">Wing M10</idno>
+            <idno type="STC">ESTC R42471</idno>
+            <idno type="EEBO-CITATION">36282031</idno>
+            <idno type="OCLC">ocm 36282031</idno>
+            <idno type="VID">150120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2231:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the coin fairly represented</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monetary policy --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150120:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE CASE OF THE COIN Fairly Repreſented,</hi> By the Means of ſome <hi>Quaeres,</hi> Conducing to the finding out whi<g ref="char:EOLhyphen"/>ther the Trade of <hi>Ireland</hi> is Affected or not, by the Advance<g ref="char:EOLhyphen"/>ment of the Rates of <hi>Coin</hi> there: And Conſequently, Whither the ſaid Advancement of the Rates of <hi>Coin</hi> there, occaſion'd as is Alledg'd? More <hi>Monies</hi> being pour'd into that Country, to its Advantage, than would otherwiſe have been carry'd thither.</head>
+            <p>
+               <hi>Firſt, Quaere,</hi> SINCE Change for <hi>Guineas</hi> us'd to be eaſily and readily had in <hi>Ireland,</hi> and now but with great Difficulty: Is it not manifeſt, That there is at pre<g ref="char:EOLhyphen"/>ſent leſs <hi>Silver</hi> Proportionably to <hi>Gold,</hi> than was for<g ref="char:EOLhyphen"/>merly in that Kingdom?</p>
+            <p>
+               <hi>Secondly, Quaere,</hi> Doth not this proceed from <hi>Gui<g ref="char:EOLhyphen"/>neas,</hi> being Rais'd more as to the Rates they Paſs at, than the <hi>Silver Coin</hi> is Rais'd at there? It being Demonſtrable for Inſtance, That <hi>Guineas</hi> are Rais'd ſo as to Paſs for 5 <abbr>
+                  <hi>d.</hi>
+               </abbr> and One 3 <abbr>d</abbr> Part of a Penny more each, than
+<pb n="2" facs="tcp:150120:2"/>they ought to do Proportionably to what <hi>Ducatoons</hi> are Rais'd to Paſs at.</p>
+            <p>
+               <hi>Thirdly, Quaere,</hi> Can it be imagin'd, That <hi>Ireland</hi> gains by having <hi>Guineas</hi> brought into that Kingdom, therewith to Purchaſe or Exchange for <hi>Silver</hi> (in Lieu thereof) upon ſuch unequal Terms? And if the Conſequences hereof cannot be deny'd, why then might not other Commodities <hi>Ireland</hi> affords, be concluded to be carry'd out upon the like Diſadvantage to it? Let no Body Cavil at my calling <hi>Silver Coin</hi> a Commodity, for <hi>Money</hi> Paſſing in <hi>Ireland</hi> by Weight, and that Weight for more or leſs, according to its Fineneſs, <hi>viz. Plate,</hi> or <hi>Peru:</hi> Is not it plainly in the Nature of <hi>Bul<g ref="char:EOLhyphen"/>lion,</hi> and is not <hi>Bullion</hi> allow'd to be a Merchandize?</p>
+            <p>
+               <hi>Fourthly, Quaere,</hi> Doth it appear by the Courſe of Exchange in the Re<g ref="char:EOLhyphen"/>turns of Money to, or out of <hi>Ireland,</hi> that Merchants are ſo Raſh and In<g ref="char:EOLhyphen"/>diſcreet in their Buſineſs, as to Govern themſelves by no Thing more ſolid than the Vulgar Opinion? And conſequently, is it to be imagin'd that any of them are tempted by the meer empty greater Sound than formerly, which our Pieces of <hi>Money</hi> make, (in the People's Naming of Them,) to bring any Species of <hi>Money</hi> whatſoever into this Kingdom, upon the pro<g ref="char:EOLhyphen"/>ſpect of Buying really greater Penny-worths therewith? Inſtead of their Previouſly computing what Increaſe of <hi>Guineas, Piſtoles, Engliſh-Crowns,</hi> or <hi>Cobbs,</hi> the Produce of what They lay out in thoſe, or any other Species of <hi>Money,</hi> will bring them in, when they Vend the Return for their <hi>Money</hi> in <hi>Iriſh</hi> Commodities elſewhere.</p>
+            <p>
+               <hi>Fifthly, Quaere,</hi> What other Way is there of getting <hi>Money</hi> into a Country, but by the Ballance of Trade? If none, then if neither the Merchant over<g ref="char:EOLhyphen"/>reaches himſelf, nor the Handy-Crafts-Man, or Country-Man are Bubl'd by Him, on the Advancement of the Rates of <hi>Coin.</hi> It follows then, That the ſame Quantity of Goods would have been carry'd out of <hi>Ireland,</hi> and the ſame Proportion of <hi>Money</hi> brought in to Pay for them, (for Inſtance, the ſame Number of <hi>Guineas,</hi>) whither <hi>Guineas</hi> had been computed betwixt them, either after the Rate of 23, or 26 <abbr>
+                  <hi>s.</hi>
+               </abbr> 
+               <hi>per</hi> Piece?</p>
+            <p>To Explain this by an Example, let it be ſuppos'd, That a Merchant, juſt after the Advancement of the Rates of <hi>Coin</hi> in <hi>Ireland,</hi> carry'd thither to the Value of 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> in <hi>Guineas</hi> to Buy Beef, Hides, Tallow, Butter, Cheeſe, Wool, or any other Goods, or Manufactures of the Country; now if Beef, and the other Commodities did ſtill keep to the Price they were at juſt before, according to Tale of Pounds, Shillings and Pence. Hath not <hi>Ireland</hi> Bought that <hi>Gold</hi> too dear, ſince it hath loſt 30 <hi>Guineas;</hi> that is to the Value of 39 <abbr>
+                  <hi>l.</hi>
+               </abbr> in the ſaid 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> there being ſo many leſs <hi>Guineas</hi> required now to make up 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> than was before the Advancement thereof; for now 230 <hi>Guineas</hi> will go as far in Tale of Pounds, as 260 <hi>Guineas</hi> did before; But if on the contrary it be ſuppos'd that every Thing in <hi>Ireland,</hi> was Riſen in Price Proportionably, to the Advancement of <hi>Money;</hi> Why then, you muſt ſuppoſe the ſaid Merchant a very Inconſiderate Perſon, for carrying or ſending over his 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> Venture thither, without Previ<g ref="char:EOLhyphen"/>ouſly informing himſelf what Conſequences the Advancement of <hi>Money</hi>
+               <pb n="3" facs="tcp:150120:2"/>had, as to the Purchaſing what he intended to Deal in? (And there are not many, if any ſuch Merchants to be met with;) but if he adviſely ſtill thought it worth his while to Buy there, what he wanted to Sell elſewhere, tho' he knew he ſhould not get any more of any Goods <hi>Ireland</hi> affords, for his 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> than he could have done before the Advancement of the Rates of <hi>Coin:</hi> Why then it plainly follows, That <hi>Ireland</hi> would howſoever have had his Money, tho' <hi>Guineas</hi> had continu'd going for 23 Shillings each; Neither can it poſſibly be any other way, that we are become thus Compe<g ref="char:EOLhyphen"/>tently Stock'd with the running Caſh now Current amongſt Us; unleſs the People of <hi>Ireland</hi> could Buy and Sell to Diſadvantage, anh yet Thrive on Their Loſs.</p>
+            <div type="speech">
+               <head>A Speech made by the Author of this Pamphlet, in the Committee of the whole <hi>Houſe of Commons,</hi> when it Sat on Ways and Means, <hi>Auguſt</hi> the <hi>30th, 1697.</hi>
+               </head>
+               <p>Mr. C—. M—. What I have to offer to Your Conſideration, is de<g ref="char:EOLhyphen"/>ſign'd by me, to tend to our common Good, and I deſire to be Heard with Patience, and that no unwary Expreſſion of Mine may be wreſted to any ill Senſe. The Subject we are upon, being of a very intricate Nature, and con<g ref="char:EOLhyphen"/>ſequently requiring to be Sifted into, with all the Plainenſs poſſible.</p>
+               <p>Now, that I may Expreſs my ſelf the more Intellegibly to the Worthy Members here Preſent, I will begin by Applying what hath already been De<g ref="char:EOLhyphen"/>termin'd by them: and in Order thereto, I beg Leave, Sir, to obſerve to You, That notwithſtanding a Member of Our Houſe, concern'd in the <hi>Coining</hi> of <hi>Half-Pence,</hi> hath to a Tittle perform'd what he was enjoyn'd by the Patent he held under, yet this Honourable Houſe was but t'other Day of Opinion, That this Kingdom Suffer'd by the Diſproportion there is be<g ref="char:EOLhyphen"/>twixt the Intrinſick Value of the ſaid <hi>Half-Pence,</hi> and what they Actually Paſs for, tho' they are in Effect but given out as Tickets for the Benefit of <hi>Change:</hi> And pray, Sir, muſt not the ſame Weighty Reaſon hold propor<g ref="char:EOLhyphen"/>tionably Good in a greater degree as to our <hi>Gold</hi> and <hi>Silver Coin,</hi> in which ſtrictly Speaking, conſiſts the real Riches of all Countries?</p>
+               <p>It is then, Sir, worth our Conſidering, whether the Advancement of the ſeveral Pieces of <hi>Money</hi> in <hi>Ireland,</hi> tho' (intended for our Good) carries not in a great Meaſure the ſame Conſequences with it, as the late Clipping the Current <hi>Coin</hi> of <hi>England,</hi> did in that Kingdom? For it is Obvious, That it is the ſame Weight of <hi>Gold</hi> and <hi>Silver,</hi> and under the uſual Denominations of <hi>Gui<g ref="char:EOLhyphen"/>neas, Ducatoons</hi> and <hi>Cobbs,</hi> which paſſeth at this time for more Pounds, Shillings and Pence, than formerly: And conſequently this is apparently but a Nominal, and not a real Difference,</p>
+               <p>This Fallacy is not indeed very evident by our Home Trade, becauſe every Body in <hi>Ireland,</hi> unperceivedly to each other, raiſes the Price of what he Deals in, proportionably to the Valuation of the <hi>Coin;</hi> and in ſo doing, they are all as much even with one another, as they ever were before; for they all Buy and Sell to one another by the ſame Standard, be it more or
+<pb n="4" facs="tcp:150120:3"/>leſs garniſh'd by the Advanc'd Rates of the <hi>Coin;</hi> that is to ſay, the ſame <hi>Gold</hi> or <hi>Silver Counter,</hi> is allow'd by all of them to ſtand in the way of Reckoning at preſent, for more Pence than formerly. But when the Merchant hath Occaſion for Foreign Commodities, he finds that no Regard will be had beyond Sea, to our imaginary Splitting the ſeveral Pieces of <hi>Money</hi> into a meer Notional increaſe of Pence; the Foreigners will not be ſo: Bubl'd out of their Merchandize, and unleſs ſome other Accident hath alter'd the Price thereof; our Merchants will have neither more nor leſs, but the very ſame Commodities, as to Quantity and Goodneſs, for the ſame Piece of <hi>Money,</hi> as he had before the Advancement thereof; becauſe it carries the ſame Weight and Fineneſs with it, which is its real Intrinſical Value.</p>
+               <p>In ſhort, Sir, the Land-Lord is the Perſon chiefly Impos'd upon, by this Nick-Naming of the <hi>Money,</hi> he receives his Rent in; for when he came to let his Eſtate after the Reduction of this Kingdom, his Tennants took their Farms with a regard to the Deſolate Condition thereof, and therefore undoubtedly the Tennant, who then Covenanted with his Land-Lord, to pay him for Example 11 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 0 <abbr>
+                     <hi>d.</hi>
+                  </abbr> for a Farm; did then ſecure to him<g ref="char:EOLhyphen"/>ſelf a good Bargain, even according to the Old Rates the <hi>Money</hi> went at; and then ſuppos'd to continue ſo ſtill by both Parties; tho' an unforeſeen Act of State hath ſince that, occaſion'd the Tennant's having a better Bargain by 30 <abbr>
+                     <hi>s.</hi>
+                  </abbr> a Year in 11 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 0 <abbr>
+                     <hi>d.</hi>
+                  </abbr> than he ever thought of before: For it is plain, That the Tennant did not at the taking of his Leaſe, expect to pay his Land-Lord the 11 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 0 <abbr>
+                     <hi>d.</hi>
+                  </abbr> he Contracted for, with leſs than 10 <hi>Guineas;</hi> but now he will tell him, that 10 <hi>Guineas</hi> makes 13 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which is 30 <abbr>
+                     <hi>s.</hi>
+                  </abbr> more than his Rent; and ſo under the Colour of Authority, he takes 30 <abbr>
+                     <hi>s.</hi>
+                  </abbr> out of his Land-Lord's Pocket, and puts it into his own.</p>
+               <p>Upon the whole, Sir, I muſt conclude, That if it be proper for us to in<g ref="char:EOLhyphen"/>ter-meddle in this Affair at all; it is rather our Intereſt to Addreſs to the Government for the Reducing of <hi>Money</hi> to what it formerly Paſs'd for? Than to have it ſtill kept up it's preſent Titular Promotion; which con<g ref="char:EOLhyphen"/>duces only to our deceiving our Selves.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
